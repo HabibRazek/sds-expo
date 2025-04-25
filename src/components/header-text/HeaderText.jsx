@@ -24,7 +24,7 @@ const HeaderText = () => {
                 </div>
                 <div className="flex items-center">
                     <FaMapMarkerAlt className="text-white text-7xl" />
-                    <span className="text-white text-2xl font-bold ml-2">LIEU:<br /> UTICA, Tunis</span>
+                    <span className="text-white text-2xl font-bold ml-2">LIEU:<br /> UTICA Tunisie</span>
                 </div>
             </div>
             <div className="max-w-screen-xl px-4 py-3 mt-5">
